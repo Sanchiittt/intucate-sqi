@@ -152,9 +152,5 @@ Borrowing Costs,Definitions,A,M,Theory,false,false,2,0.5,90,130,true,1
 
 ---
 
-## Notes
-- All UI pages have gradient backgrounds and responsive design
-- Buttons have gradient hover effects
-- Tables are readable with subtle gradient cards
-- Designed for **demo recording ≤90 seconds**
+
 
